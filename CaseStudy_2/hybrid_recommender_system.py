@@ -8,6 +8,11 @@
 #########################
 # ID'si verilen kullanıcı için item-based ve user-based recomennder yöntemlerini kullanarak tahmin yapınız.
 # 5 öneri user-based modelden 5 öneri de item-based modelden ele alınız ve nihai olarak 10 öneriyi 2 modelden yapınız.
+git add .gitattributes
+git commit -m "CaseStudy_2/datasets/rating.csv"
+
+git add "CaseStudy_2/datasets/rating.csv"
+git commit -m "Add large dataset"
 
 ##########################
 # Veri Seti Hikayesi
